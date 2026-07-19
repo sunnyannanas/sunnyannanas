@@ -1,4 +1,4 @@
-# Hi, I'm Anna Rösner
+# Hi, I'm Anna
 
 ### PhD Candidate & Researcher in Machine Learning, eXplainable AI (XAI) & Data Analytics
 University of Portsmouth | Industry Experience in Process Mining & Enterprise Systems
@@ -47,7 +47,7 @@ I am a **PhD Candidate** and researcher specialising in **Machine Learning (ML)*
 
 ---
 
-## Professional Industry Certifications
+## Certifications
 - **SAP Certified Associate**: WalkMe Digital Adoption Consultant
 - **SAP Certified Associate**: Business Transformation Consultant
 - **SAP Certified Associate**: Enterprise Architecture Consultant
@@ -57,7 +57,7 @@ I am a **PhD Candidate** and researcher specialising in **Machine Learning (ML)*
 ---
 
 ## Industry Experience
-- **Process Mining Consultant**: Experience in Process Mining, ERP Software, SAP, SAP Signavio, LeanIX, Celonis, and business process analysis across retail and corporate sectors.
+- **Process Mining Consultant (since 2018)**: Experience in Process Mining, ERP Software, SAP, SAP Signavio, LeanIX, Celonis, and business process analysis across retail and corporate sectors.
 - **Enterprise Software Expertise**: Workflow integration and process data extraction with **SAP ERP** and **Microsoft Dynamics CRM**.
 
 ---
